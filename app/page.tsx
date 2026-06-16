@@ -219,7 +219,8 @@ export default function GrupoAML() {
 
         <div className="border-t border-gray-800 mt-10 pt-6 text-center text-gray-500 text-sm">
           © 2026 Grupo AML - Todos os direitos reservados.
-          CNPJ: 54.032.077/0001-72
+           <br />
+  CNPJ: 54.032.077/0001-72
         </div>
       </footer>
     </div>
