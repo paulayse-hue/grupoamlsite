@@ -208,6 +208,9 @@ export default function GrupoAML() {
             <h4 className="font-semibold text-lg mb-4">Contato</h4>
             <p className="text-gray-400">WhatsApp: (48) 99189-2826</p>
             <p className="text-gray-400 mt-2">Instagram: @amlgrupo_</p>
+      <p className="text-gray-400 mt-2">
+  Facebook: <a href="https://www.facebook.com/profile.php?id=61590883973674" target="_blank">Grupo AML</a>
+</p>
           </div>
 
           <div>
